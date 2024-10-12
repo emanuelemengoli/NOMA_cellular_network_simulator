@@ -69,6 +69,9 @@ The main simulation files are located in the `simulation_files` directory.
 
 ## References
 [1] Bardou, Anthony, Patrick Thiran, and Giovanni Ranieri. "This Too Shall Pass: Removing Stale Observations in Dynamic Bayesian Optimization." arXiv preprint arXiv:2405.14540 (2024). ([link](https://arxiv.org/pdf/2405.14540)).
+
 [2]`DBO_for_cellular_networks.pdf`.
+
 [3]`Dynamic_Bayesian_Optimization_works.pdf`.
+
 [4] [Report visualizations](https://drive.google.com/drive/folders/1l24CaTQnXVrh6pgIBsbVXmZD273qOft4?usp=share_link).
