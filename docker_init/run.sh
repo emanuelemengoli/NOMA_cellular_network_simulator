@@ -3,6 +3,6 @@ docker run -it \
     --rm \
     --privileged \
     --net=host \
-    -v "/Users/emanuelemengoli/epfl:/home/user/workspace" \
+    -v "/Users/emanuelemengoli/github repos/NOMA_net/project:/home/user/workspace" \
     ubuntu-wdbo
 
